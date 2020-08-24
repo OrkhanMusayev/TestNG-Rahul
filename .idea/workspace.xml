@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aff2b8cb-7a29-45e4-983d-28df3ad12337" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestNG_Rahul" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gT8PcobGKiTMqGeZKZrlG1ktkW" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Orkhan\IdeaProjects\TestNG_Rahul" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Orkhan/IdeaProjects/TestNG_Rahul/testng1.xml">
+    <configuration type="TestNG" nameIsGenerated="true">
+      <module name="TestNG_Rahul" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobalValuesDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Rahul.GlobalValuesDrive" />
+      <module name="TestNG_Rahul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_Rahul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Orkhan/IdeaProjects/TestNG_Rahul/testng1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Rahul" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng1.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Rahul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Day1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day3 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Rahul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Day3" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Rahul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Annotations_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Annotations_practice" />
+      <option name="MAIN_CLASS_NAME" value="Annotations_practice.P1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testng.xml" type="TestNG">
+      <module name="TestNG_Rahul" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="C:\Users\Orkhan\IdeaProjects\TestNG_Rahul\testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Orkhan/IdeaProjects/TestNG_Rahul/testng1.xml" />
+        <item itemvalue="TestNG.Day1" />
+        <item itemvalue="Application.GlobalValuesDrive" />
+        <item itemvalue="TestNG.P1" />
+        <item itemvalue="TestNG.Day3 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aff2b8cb-7a29-45e4-983d-28df3ad12337" name="Default Changelist" comment="" />
+      <created>1598127198469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598127198469</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="374" y="0" width="869" height="860" key="#&lt;default&gt;" timestamp="1598135331766">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="374" y="0" width="869" height="860" key="#&lt;default&gt;/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1598135331766" />
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1598298594567">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1598298594567" />
+    <state x="444" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598234657880">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="444" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1598234657880" />
+    <state x="561" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1598226602585">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="561" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1598226602585" />
+    <state width="1549" height="348" key="GridCell.Tab.0.bottom" timestamp="1598298614104">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="348" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1598298614104" />
+    <state width="1549" height="348" key="GridCell.Tab.0.center" timestamp="1598298614104">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="348" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1598298614104" />
+    <state width="1549" height="348" key="GridCell.Tab.0.left" timestamp="1598298614104">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="348" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1598298614104" />
+    <state width="1549" height="348" key="GridCell.Tab.0.right" timestamp="1598298614104">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="348" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1598298614104" />
+    <state x="2096" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1598205315291">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="2096" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1598205315290" />
+    <state x="0" y="72" key="new project wizard" timestamp="1598302846241">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="72" key="new project wizard/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1598302846241" />
+  </component>
+</project>

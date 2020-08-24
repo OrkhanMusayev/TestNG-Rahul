@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Loan Department" parallel="tests" thread-count="6">
+    <!-- parallel means run our tests parallel,2 means 2 test cases-->
+    <!-- in real work experience for parallel running test we use selenium grid -->
+
+
+    <listeners>
+        <listener class-name="Test.Listeners"/>
+    </listeners>
+
+    <parameter name="URL" value="qaclickacademy.com"/>
+
+
+    <test name="Personal Loan" parallel="classes" thread-count="2">
+        <!-- inside test we even can run classes parallel -->
+        <parameter name="URL" value="personalloan.com"/>
+        <classes>
+            <class name="Test.Day1"/>
+            <class name="Test.Day2"/>
+            <class name="Test.Day4"/>
+        </classes>
+    </test>
+
+    <test name="Car Loan">
+        <parameter name="URL" value="carloan.com"/>
+        <parameter name="APIKey/username" value="123456"/>
+
+        <classes>
+
+            <class name="Test.Day3">
+                <methods>
+                    <exclude name="MobileLoginCarLoan"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
